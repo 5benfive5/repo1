@@ -1,1 +1,1 @@
-#juuban
+#10ban
